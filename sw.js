@@ -3,7 +3,7 @@
 // enough to launch and play with no connection. Cached copies are served
 // first and refreshed in the background whenever the network is available.
 
-const CACHE = 'saturday-dynasty-vmv1ua072';
+const CACHE = 'saturday-dynasty-vmv2psyym';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png', './inter-latin.woff2'];
 const FONT_HOSTS = new Set(['fonts.googleapis.com', 'fonts.gstatic.com']);
 
